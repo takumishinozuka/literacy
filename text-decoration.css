@@ -1,0 +1,9 @@
+.foo {
+    font-size: 20pt;
+}
+#bar1 {
+   color:red;
+}
+#bar2 {
+    text-decoration: line-through;
+}
